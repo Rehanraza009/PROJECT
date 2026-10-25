@@ -1,0 +1,38 @@
+# Challenge Dataset & Archives (Forbidden per challenge specification)
+dataset/
+agent-trace/
+agent-trace.zip
+code.zip
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Virtual Environments & Dependencies
+.venv/
+venv/
+env/
+ENV/
+node_modules/
+
+# Python caches and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs (Preserve root log.txt for HackerRank chat transcript)
+*.log
+!log.txt
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+scratch/
